@@ -10,6 +10,7 @@ function(){
 if(
 gc_collect_cycles()
 ){
+    echo "注册码提供";
 }elseif(oci_client_version())
     include"";
 print_r(oci_client_version());
