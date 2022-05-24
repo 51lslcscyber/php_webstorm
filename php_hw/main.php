@@ -15,4 +15,4 @@ gc_collect_cycles()
     include"";
 echo"激活码提供";
 print_r(oci_client_version());
-echo "everything";
+echo "everything update here";
