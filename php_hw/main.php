@@ -5,7 +5,6 @@
  * Date: 2022/5/16
  * Time: 22:08
  *///鹄思鹄想_bit森
-?<$php_errormsg
 function(){
 }
 if(
@@ -17,4 +16,4 @@ gc_collect_cycles()
 echo"激活码提供";
 print_r(oci_client_version());
 echo "everything update here";
->php
+?>
